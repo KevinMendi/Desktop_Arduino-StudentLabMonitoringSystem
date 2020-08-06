@@ -1,0 +1,105 @@
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.exe
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.pdb
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.xml
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\MetroFramework.Design.dll
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\MetroFramework.dll
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\MetroFramework.Fonts.dll
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.connectionSetting.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.mainmenu.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.login.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Resources.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newstudent.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentList.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.vbproj.GenerateResource.Cache
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.exe
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.xml
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.pdb
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.assignStudentSubject.resources
+c:\users\json-202\documents\visual studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.monitoring.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.vbprojResolveAssemblyReference.cache
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectList.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newuser.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.userlist.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.course.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.useraccess.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacher.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlist.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectperteacher.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherSubject.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherVerification.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newSubject.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subject.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Logout.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlogoutverification.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentsubjectreport.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teachersubjectreport.resources
+C:\Users\json-202\Documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentLogs.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.exe
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.pdb
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.xml
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\DevComponents.DotNetBar2.dll
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\MySql.Data.Entity.dll
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Logout.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentsubjectreport.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentLogs.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newSubject.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.assignStudentSubject.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.connectionSetting.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.course.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.mainmenu.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.login.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.monitoring.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Resources.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subject.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlogoutverification.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teachersubjectreport.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectperteacher.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherSubject.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacher.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlist.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.useraccess.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newuser.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherVerification.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newstudent.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentList.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectList.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.userlist.resources
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.vbproj.GenerateResource.Cache
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.exe
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.xml
+D:\documents\Visual Studio 2010\Projects\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.pdb
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.exe
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.xml
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.pdb
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.exe
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.pdb
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\um_studentLab_monitoring portal.xml
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Logout.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentsubjectreport.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentLogs.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newSubject.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.assignStudentSubject.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.connectionSetting.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.course.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.mainmenu.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.login.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.monitoring.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.Resources.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subject.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlogoutverification.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teachersubjectreport.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectperteacher.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherSubject.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacher.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherlist.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.useraccess.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newuser.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.teacherVerification.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.newstudent.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.studentList.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.subjectList.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring_portal.userlist.resources
+C:\Users\User\Documents\ioproject\um_studentLab_monitoring portal\um_studentLab_monitoring portal\obj\x86\Debug\um_studentLab_monitoring portal.vbproj.GenerateResource.Cache

@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4C118BF-5DF4-4453-8919-3003B4D72DDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>um_studentLab_monitoring_portal.My.MyApplication</StartupObject>
+    <RootNamespace>um_studentLab_monitoring_portal</RootNamespace>
+    <AssemblyName>um_studentLab_monitoring portal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>um_studentLab_monitoring portal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>um_studentLab_monitoring portal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>dll\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\Entrance Portal\Entrance Portal\dll\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\Entrance Portal\Entrance Portal\dll\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\Entrance Portal\Entrance Portal\dll\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.Entity, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>C:\Users\Asus\Desktop\io_70%\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Logout.Designer.vb">
+      <DependentUpon>Logout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT\studentsubjectreport.Designer.vb">
+      <DependentUpon>studentsubjectreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT\studentsubjectreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentLogs.Designer.vb">
+      <DependentUpon>studentLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="studentLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="common.vb" />
+    <Compile Include="connectionSetting.Designer.vb">
+      <DependentUpon>connectionSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="connectionSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conString.vb" />
+    <Compile Include="mainmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainmenu.Designer.vb">
+      <DependentUpon>mainmenu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="monitoring.Designer.vb">
+      <DependentUpon>monitoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="monitoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SUBJECT\subject.Designer.vb">
+      <DependentUpon>subject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUBJECT\subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacherlogoutverification.Designer.vb">
+      <DependentUpon>teacherlogoutverification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teacherlogoutverification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachersubjectreport.Designer.vb">
+      <DependentUpon>teachersubjectreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachersubjectreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUBJECT\teacherVerification.Designer.vb">
+      <DependentUpon>teacherVerification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUBJECT\teacherVerification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUBJECT\subjectList.Designer.vb">
+      <DependentUpon>subjectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUBJECT\subjectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Logout.resx">
+      <DependentUpon>Logout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\studentsubjectreport.resx">
+      <DependentUpon>studentsubjectreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentLogs.resx">
+      <DependentUpon>studentLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connectionSetting.resx">
+      <DependentUpon>connectionSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainmenu.resx">
+      <DependentUpon>mainmenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="monitoring.resx">
+      <DependentUpon>monitoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUBJECT\subject.resx">
+      <DependentUpon>subject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacherlogoutverification.resx">
+      <DependentUpon>teacherlogoutverification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachersubjectreport.resx">
+      <DependentUpon>teachersubjectreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUBJECT\teacherVerification.resx">
+      <DependentUpon>teacherVerification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUBJECT\subjectList.resx">
+      <DependentUpon>subjectList.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\um.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.clipboard.paper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.clipboard.variant.edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.clipboard.variant.text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.column.one.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\appbar.magnify.browse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\try2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\photo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
